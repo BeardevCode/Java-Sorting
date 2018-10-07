@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Sort {
 	
 	/**
-	 * Check if an array of is sorted
+	 * Check if an array is sorted
 	 * 
 	 * @param tab Array of numbers
 	 * @return True or false
